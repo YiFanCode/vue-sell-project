@@ -2,7 +2,7 @@
   "name": "sell-app",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "fei-han <964959033@qq.com>",
+  "author": "YuYiFan <YiFan_Code@163.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
